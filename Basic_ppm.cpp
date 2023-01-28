@@ -4,8 +4,8 @@ int main() {
 
     // Image
 
-    const int image_width = 256;
-    const int image_height = 256;
+    const int image_width = 512;
+    const int image_height = 512;
 
     // Render
 
